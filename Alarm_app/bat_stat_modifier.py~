@@ -1,0 +1,10 @@
+import json
+
+with open("bat_stat.json", "r") as f:
+    data=json.load(f)
+data=f"{data['status']}"
+
+with open("bat_stat.json", "w") as f:
+    f.write(data)
+    
+
