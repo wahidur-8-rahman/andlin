@@ -1,0 +1,15 @@
+{
+  "present": true,
+  "technology": "Li-poly",
+  "health": "GOOD",
+  "plugged": "UNPLUGGED",
+  "status": "CHARGING",
+  "temperature": 32.7,
+  "voltage": 3790,
+  "current": -1383310,
+  "percentage": 42,
+  "level": 42,
+  "scale": 100,
+  "charge_counter": 2512676,
+  "cycle": 38
+}
